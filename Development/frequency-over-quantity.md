@@ -1,3 +1,11 @@
+- [TL;DR](#tldr)
+- [Frequency Always Beats Quantity](#frequency-always-beats-quantity)
+- [The Importance of Feedback](#the-importance-of-feedback)
+- [A Hypothetical Scenario](#a-hypothetical-scenario)
+- [A Thought on Velocity](#a-thought-on-velocity)
+- [In Conclusion](#in-conclusion)
+
+
 2023-07-06
 
 *Agile Development* is the buzzword (buzzphrase?) of our time. It's universally self-attributed by modern development teams, although true adherance to its namesake manifesto seems scanty at best.
